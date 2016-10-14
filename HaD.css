@@ -1,0 +1,117 @@
+body{
+	background-size: cover;
+	font-family:Comic Sans MS;
+}
+
+.home-bg{
+	background-image: url("Bg.png");
+}
+
+.newsfeed-bg{
+	background-image: url("https://s-media-cache-ak0.pinimg.com/originals/5c/f2/66/5cf2660af5f4214def7166dc7a7c8062.jpg");
+}
+
+header{
+	padding: 20px;
+}
+
+p{
+	font-family: comic sans MS, sans-serif ;
+	margin: 30px;
+	font-size:20px;
+	color:#cccccc;
+
+}
+
+footer .row{
+	display: flex;
+	align-items: center;
+}
+
+header h1{
+	font-weight: 100;
+}
+
+
+.navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+}
+
+h3{
+	color:white;
+	size:60px;
+}
+
+h4{
+	margin:0px;
+	color:white;
+	size:20px;
+}
+
+.jumbotron{
+	display:flex;
+	align-items: center;
+	text-shadow: 1px 1px 1px #000000;
+	background-color: transparent;
+}
+
+.jumbotron h2{
+	font-size: 72px;
+	font-weight:700;
+	color:#331a00;
+}
+
+.jumbotron h3{
+	font-size:54px;
+	font-weight: 600;
+}
+
+.btn.btn-primary{
+	border:0px;
+	margin-top: 15px;
+	color: white;
+	background-color:#222222;
+}
+
+.btn.btn-primary:hover {
+	color:#222222;
+	background-color: white;
+}
+
+.img-rounded{
+	margin:5px;
+}
+
+.media-heading{
+	text-align:left;
+	font-family: "Lato", sans-serif;
+	font-weight:300;
+	color:white;
+}
+
+.media-body p{
+	text-align: left;
+	font-family: Comic Sans MS, sans-serif;
+	font-weight: 200;
+	color: white;
+}
+
+kbd{
+	font-family: "Lato", sans-serif;
+	font-weight:300;
+kbd{
+	font-family: "Lato", sans-serif;
+	font-weight:300;
+}
+
+h2{
+	font-family: Comic Sans MS;
+}
+
+#OSSubTitle{
+	font-family: Comic Sans MS;
+	font-size: 72px;
+	font-weight:700;
+	color:#4d4d00;
+}
